@@ -1,4 +1,9 @@
-/*Estilos principales de css*/
+/* Estilos principales de css */
+
+//import de css de bootstrap
+@import "bootstrap/bootstrap.scss";   
+
+/* Aca empiezan mis estilos */
 div{
     background-color: red;
 }
